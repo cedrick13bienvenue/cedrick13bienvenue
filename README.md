@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Cedrick BIENVENUE!
 
-<!--
-**cedrick13bienvenue/cedrick13bienvenue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I’m a Software Engineering student with a passion for coding and problem-solving.
+- 💡 I focus on creating technical solutions to real-world challenges, especially in tourism and education.
+- 🔭 Currently learning: **Backend Development**.
+- 🥛 Fun fact: I can basically go 3 days without anything *but* milk—YES, I'm a dairy devotee! 🐄
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
+- **GitHub**: [cedrick13bienvenue](https://github.com/cedrick13bienvenue)
+- **LinkedIn**: [Cedrick BIENVENUE](https://www.linkedin.com/in/cedrick-bienvenue-256317298/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Programming**: JavaScript, Python
+- **Frameworks**: React, Node.js
+- **Databases**: MongoDB
+- **Tools**: Vite, Cloudinary, GitHub Actions
+- **Deployment**: Render, Vercel
+
+## 📈 GitHub Stats
+![Cedrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cedrick13bienvenue&show_icons=true&theme=radical)
+
+---
+
+Let me know if you'd like any tweaks! 😊
