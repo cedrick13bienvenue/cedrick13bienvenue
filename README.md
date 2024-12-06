@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cedrick BIENVENUE🙂
+# 👋 Hi, I'm Cedrick BIENVENUE🙂—thrilled to have you here!
 
 ## About Me
 - 🌱 I’m just a chill guy who's zealed about tech and mind how things function behind the scenes.  
@@ -7,7 +7,7 @@
 - 🥛 Fun fact: I can basically go 3 days without anything *but* milk—YES, I'm a dairy devotee! 🐄
 
 ## 🔗 Connect with Me  
-- 📧 [cedrick13bienvenue@gmail.com](mailto:cedrick13bienvenue@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cedrick-bienvenue-256317298/)  
+- 📧 [cedrick13bienvenue@gmail.com](mailto:cedrick13bienvenue@gmail.com) - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cedrick-bienvenue-256317298/)  
 
 ## 🛠️ My Tools and Stack  
 
