@@ -1,25 +1,25 @@
 # 👋 Hi, I'm Cedrick BIENVENUE!
 
 ## About Me
-- 🌱 I’m a Software Engineering student with a passion for coding and problem-solving.
-- 💡 I focus on creating technical solutions to real-world challenges, especially in tourism and education.
-- 🔭 Currently learning: **Backend Development**.
-- 🥛 Fun fact: I can basically go 3 days without anything *but* milk—YES, I'm a dairy devotee! 🐄
+- 🌱 I’m just a chill guy who's zealed about tech and loves to explore how things work under the hood.  
+- 💡 I like being the **power behind the power**, much like how the backend drives the frontend's functionality.  
+- 🔭 Currently learning **JavaScript**, with a focus on **backend development**.  
 
 ## 🔗 Connect with Me
-- **GitHub**: [cedrick13bienvenue](https://github.com/cedrick13bienvenue)
-- **LinkedIn**: [Cedrick BIENVENUE](https://www.linkedin.com/in/cedrick-bienvenue-256317298/)
+- **GitHub**: [cedrick13bienvenue](https://github.com/cedrick13bienvenue)  
+- **LinkedIn**: [Cedrick BIENVENUE](https://www.linkedin.com/in/cedrick-bienvenue-256317298/)  
+- **Email**: [cedrick13bienvenue@gmail.com](mailto:cedrick13bienvenue@gmail.com)  
 
 ## 💻 Tech Stack
-- **Programming**: JavaScript, Python
-- **Frameworks**: React, Node.js
-- **Databases**: MongoDB
-- **Tools**: Vite, Cloudinary, GitHub Actions
-- **Deployment**: Render, Vercel
+- **Programming**: JavaScript, Python  
+- **Backend Tools**: Node.js, Express  
+- **Databases**: MongoDB  
+- **Deployment**: Render, Vercel  
 
 ## 📈 GitHub Stats
 ![Cedrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cedrick13bienvenue&show_icons=true&theme=radical)
 
 ---
 
-Let me know if you'd like any tweaks! 😊
+Let me know if this aligns with your vibe or if you'd like further adjustments! 😊
+
