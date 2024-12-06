@@ -4,11 +4,10 @@
 - 🌱 I’m just a chill guy who's zealed about tech and mind how things function behind the scenes.  
 - 💡 I like being the **power behind the power**, much like how the backend drives the frontend's functionality.  
 - 🔭 Currently learning **JavaScript**, with a focus on **backend development**.
-- 🥛 Fun fact: I can basically go 3 days without anything *but* milk—YES, I'm a dairy devotee! 🐄
+- 🥛 Fun fact: I can basically go 3 days without anything *but* milk—YES, 😂I'm a dairy devotee!🐄
  
 ## 🔗 Connect with Me  
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cedrick13bienvenue@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cedrick-bienvenue-256317298/)  
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cedrick13bienvenue@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cedrick-bienvenue-256317298/)  
 
 ## 🛠️ My Tools and Stack  
 
