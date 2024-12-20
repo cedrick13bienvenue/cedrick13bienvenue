@@ -19,8 +19,6 @@
 
 ![Cedrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cedrick13bienvenue&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=cedrick13bienvenue&theme=radical)
-
 ---
 
 Feel free to share any suggestions or ideas that could help me grow in my learning journey!😊
