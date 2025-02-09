@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cedrick Bienvenue🙂—thrilled to have you here
+# 👋 Hi, I'm Cedrick Bienvenue🙂—thrilled to have you here!
 
 ## About Me
 - 😎 Chill as ever, but I’m always wondering about the systems that keep things running.  
