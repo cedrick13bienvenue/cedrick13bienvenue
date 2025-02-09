@@ -6,7 +6,7 @@
 - 🔭 Currently learning **JavaScript**, with a focus on **backend development**.
 - 🥛 Fun fact: I can basically go 3 days without anything *but* milk—YES, 😂I'm a dairy devotee!🐄
  
-## 🔗 Connect with Me  
+## 🔗 Connect with Me 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cedrick13bienvenue@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cedrick-bienvenue-256317298/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cedrick13bienvenue/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cedrique_13)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250784667128)  
 
 
