@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cedrick Bienvenue🙂—thrilled to have you here!
 
-## About Me 
+## About Me
 - 😎 Chill as ever, but I’m always wondering about the systems that keep things running.  
 - ⚙️ I like being the **power behind the power**, much like how the backend drives the frontend's functionality.
 - 🔭 Currently learning **JavaScript**, with a focus on **backend development**.  
