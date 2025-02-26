@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Cedrick Bienvenue🙂—thrilled to have you here!</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Cedrick Bienvenue🙂—thrilled to have you here!</h2>
 
 ## About Me
 - 😎 Chill as ever, but I’m always wondering about the systems that keep things running.  
@@ -14,7 +14,7 @@
     <img align="center" width="790" src="https://github-readme-activity-graph.vercel.app/graph?username=cedrick13bienvenue&&color=ffffff&line=6366f1&point=ffff&layout=compact&theme=react&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph">
 </div>
 
-<h3 align="center">Feel free to share any suggestions or ideas that could help me grow in my learning journey!😊</h3>
+<h3 align="center">I'm Cedrick Bienvenue, a Backend Developer passionate about building robust systems!</h3>
 
 <br/>
 
@@ -39,9 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <hr/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,git,github,html,css,tailwind" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=vercel,docker,postgresql,typescript,kubernetes,mysql,render,react,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,git,github,html,css,tailwind,vercel,docker,postgresql,typescript,kubernetes,mysql,render,react,postman" />
 </div>
 
 <br/>
