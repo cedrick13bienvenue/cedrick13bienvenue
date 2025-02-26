@@ -39,9 +39,9 @@
 <hr/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb,nodejs,git,github,html,css,tailwind,vercel" /><br/>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,git,github,html,css,tailwind,vercel" /><br/>
     <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,react,postman" />
-    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48" />
+    <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" />
 </div>
 
 <br/>
