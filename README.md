@@ -40,14 +40,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,html,express,mongodb,git,github,css,tailwind,nodejs,vercel" /><br/>
-    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,react,postman" />
-    <a href="https://render.com/" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" />
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" alt="render" width="48" height="48" style="background-color:#121212; padding:10px; border-radius:8px" />
-      </picture>
-    </a>
+    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,react,postman,render" />
 </div>
 
 <br/>
