@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Cedrick Bienvenue🙂—thrilled to have you here!</h2>
 
 ## About Me
-- 😎 Chill as ever, but I’m always wondering about the systems that keep things running.  
+- 😎 Chill as ever, but I'm always wondering about the systems that keep things running.  
 - ⚙️ I like being the **power behind the power**, much like how the backend drives the frontend's functionality.
 - 🔭 Currently learning **JavaScript**, with a focus on **backend development**.  
 - 🥛 Fun fact: I can basically go 3 days without anything *but* milk—YES, 😂I'm a dairy devotee!🐄
@@ -15,7 +15,6 @@
 </div>
 
 <h3 align="center">Feel free to share any suggestions or ideas that could help me grow in my learning journey!😊</h3>
-
 <br/>
 
 <div align="center"> 
@@ -38,9 +37,11 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <hr/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,git,github,html,css,tailwind,vercel" /><br/>
-    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,react,postman,Render" />
+    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb,nodejs,git,github,html,css,tailwind,vercel" /><br/>
+    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,react,postman" />
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="48" />
 </div>
 
 <br/>
