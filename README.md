@@ -39,9 +39,11 @@
 <hr/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,git,github,html,css,tailwind,vercel" /><br/>
+    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb,git,github,html,css,tailwind,nodejs,vercel" /><br/>
     <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,react,postman" />
-    <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" />
+    <a href="https://render.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=render" alt="render" width="48" height="48"/>
+    </a>
 </div>
 
 <br/>
