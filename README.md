@@ -41,7 +41,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,git,github,html,css,tailwind" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=vercel,docker,postgresql,render,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=vercel,docker,postgresql,typescript,kubernetes,mysql,render,postman" /><br>
 </div>
 
 <br/>
