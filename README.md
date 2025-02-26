@@ -14,7 +14,7 @@
     <img align="center" width="790" src="https://github-readme-activity-graph.vercel.app/graph?username=cedrick13bienvenue&&color=ffffff&line=6366f1&point=ffff&layout=compact&theme=react&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph">
 </div>
 
-<h3 align="center">I'm Cedrick Bienvenue, a Backend Developer passionate about building robust systems!</h3>
+<h3 align="center">Feel free to share any suggestions or ideas that could help me grow in my learning journey!😊</h3>
 
 <br/>
 
@@ -40,7 +40,7 @@
 <hr/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,git,github,html,css,tailwind,vercel" /><br/>
-    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,render,react,postman" />
+    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,react,postman,render" />
 </div>
 
 <br/>
