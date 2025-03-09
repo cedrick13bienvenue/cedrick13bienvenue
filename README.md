@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Cedrick Bienvenue🙂—thrilled to have you here!</h2>
 
-## About Me 
+## About Me
 - 😎 Chill as ever, but I'm always wondering about the systems that keep things running. 
 - ⚙️ I like being the **power behind the power**, much like how the backend drives the frontend's functionality.
 - 🔭 Currently learning **JavaScript**, with a focus on **backend development**.
