@@ -21,7 +21,7 @@
   <a href="mailto:cedrick13bienvenue@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/cedrick-bienvenue-256317298/" target="_blank"> 
+  <a href="https://www.linkedin.com/in/cedrick-bienvenue-256317298/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/cedrick13bienvenue/" target="_blank"> 
