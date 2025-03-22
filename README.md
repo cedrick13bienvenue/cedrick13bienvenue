@@ -6,7 +6,7 @@
 - 🔭 Currently learning **JavaScript**, with a focus on **backend development**.  
 - 🥛 Fun fact: I can basically go 3 days without anything *but* milk—YES, 😂I'm a dairy devotee!🐄 
  
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2> 
 <hr/> 
 <div align="center">
     <img width="450" src="https://github-readme-stats.vercel.app/api?username=cedrick13bienvenue&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10">
