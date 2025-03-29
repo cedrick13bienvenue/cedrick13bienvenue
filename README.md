@@ -7,7 +7,7 @@
 - 🥛 Fun fact: I can basically go 3 days without anything *but* milk—YES, 😂I'm a dairy devotee!🐄 
  
 <h2 align="center">⚡ Stats ⚡</h2> 
-<hr/> 
+<hr/>  
 <div align="center">
     <img width="450" src="https://github-readme-stats.vercel.app/api?username=cedrick13bienvenue&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10">
     <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedrick13bienvenue&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Cedrick's Top Languages">
