@@ -15,24 +15,6 @@
 
 <h3 align="center">Feel free to share any suggestions or ideas that could help me grow in my learning journey!😊</h3>   
 <br/>
- 
-<div align="center">   
-  <a href="mailto:cedrick13bienvenue@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/cedrick-bienvenue/" target="_blank">   
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/cedrick13bienvenue/" target="_blank"> 
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a> 
-  <a href="https://x.com/cedrique_13" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a>
-</div> 
-
- 
-<hr/> 
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> 
