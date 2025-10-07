@@ -40,7 +40,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,javascript,express,mongodb,git,githubactions,nodejs,graphql,redis" /><br/>
-    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,react,postman,python" />
+    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,postman,python" />
 </div>
 
 <br/>
