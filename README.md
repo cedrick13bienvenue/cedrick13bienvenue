@@ -39,7 +39,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb,git,githubactions,css,tailwind,nodejs,graphql,redis" /><br/>
+    <img src="https://skillicons.dev/icons?i=javascript,express,mongodb,git,githubactions,css,nodejs,graphql,redis" /><br/>
     <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,mysql,react,postman,python" />
 </div>
 
