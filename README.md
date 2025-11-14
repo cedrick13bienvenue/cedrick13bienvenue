@@ -3,7 +3,7 @@
 ## About Me  
 - ⚙️ I like being the **power behind the power**, much like how the backend drives the frontend's functionality. 
 - 🔭 Currently learning **Backend & DevOps** to build reliable systems and optimize workflows..  
-- 🥛 Fun fact: I could survive on **milk** for days—yep, I’m a proud dairy enthusiast!😂🐄  
+- 🥛 Fun fact: I could survive on **milk** for days—yep, I’m a proud dairy enthusiast!😂🐄 
  
 <h2 align="center">⚡ Stats ⚡</h2> 
 <hr/>  
