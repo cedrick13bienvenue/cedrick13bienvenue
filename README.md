@@ -8,8 +8,9 @@
 <h2 align="center">⚡ Stats ⚡</h2> 
 <hr/>  
 <div align="center">
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=cedrick13bienvenue&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10">
-    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedrick13bienvenue&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Cedrick's Top Languages">
+   <div align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cedrick13bienvenue&theme=react">
+   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedrick13bienvenue&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Cedrick's Top Languages">
     <img align="center" width="790" src="https://github-readme-activity-graph.vercel.app/graph?username=cedrick13bienvenue&&color=ffffff&line=6366f1&point=ffff&layout=compact&theme=react&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"> 
 </div> 
  
