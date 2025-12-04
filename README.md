@@ -10,8 +10,8 @@
 <div align="center">
    <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cedrick13bienvenue&theme=react">
-   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedrick13bienvenue&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Cedrick's Top Languages">
-    <img align="center" width="790" src="https://github-readme-activity-graph.vercel.app/graph?username=cedrick13bienvenue&&color=ffffff&line=6366f1&point=ffff&layout=compact&theme=react&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cedrick13bienvenue&theme=react">
+   <img align="center" width="790" src="https://github-readme-activity-graph.vercel.app/graph?username=cedrick13bienvenue&&color=ffffff&line=6366f1&point=ffff&layout=compact&theme=react&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"> 
 </div> 
  
 <h3 align="center">Feel free to share any suggestions or ideas that could help me grow in my learning journey!😊</h3>   
