@@ -17,5 +17,5 @@ Building the resilient systems that power the frontend. Focused on architecting 
 
 ---
 
-### 🤝 Let's Connect
+### 🤝🏾 Let's Connect
 *Optimizing workflows or talking architecture? I'm always open to feedback and collaboration.*
