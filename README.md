@@ -7,8 +7,8 @@ Building the resilient systems that power the frontend. Focused on architecting 
 ### 🛠️ Core Stack & Infrastructure
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,javascript,express,mongodb,git,githubactions,nodejs,graphql,redis" /><br/>
-    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,nestjs,mysql,postman,python,jenkins" />
+    <img src="https://skillicons.dev/icons?i=aws,javascript,express,terraform,mongodb,git,githubactions,nodejs,graphql,redis" /><br/>
+    <img src="https://skillicons.dev/icons?i=docker,postgresql,typescript,kubernetes,nestjs,mysql,postman,python,jenkins,ansible" />
 </p>
 
 ---
